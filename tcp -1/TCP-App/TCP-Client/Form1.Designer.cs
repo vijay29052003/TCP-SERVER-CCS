@@ -1,0 +1,209 @@
+﻿namespace TCP_Client
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.connectButton = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.portTextBox = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.hostTextBox = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.statusBar1 = new System.Windows.Forms.StatusBar();
+            this.disconnectButton = new System.Windows.Forms.Button();
+            this.sendTextBox = new System.Windows.Forms.TextBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.ledToggleCheckBox = new System.Windows.Forms.CheckBox();
+            this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // connectButton
+            // 
+            this.connectButton.Location = new System.Drawing.Point(12, 138);
+            this.connectButton.Name = "connectButton";
+            this.connectButton.Size = new System.Drawing.Size(136, 59);
+            this.connectButton.TabIndex = 0;
+            this.connectButton.Text = "Connect";
+            this.connectButton.UseVisualStyleBackColor = true;
+            this.connectButton.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(218, 277);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(67, 28);
+            this.button2.TabIndex = 1;
+            this.button2.Text = "Send";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.portTextBox);
+            this.groupBox1.Controls.Add(this.label2);
+            this.groupBox1.Controls.Add(this.hostTextBox);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Location = new System.Drawing.Point(12, 12);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(273, 116);
+            this.groupBox1.TabIndex = 3;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Server Details";
+            // 
+            // portTextBox
+            // 
+            this.portTextBox.Font = new System.Drawing.Font("Cascadia Mono", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.portTextBox.Location = new System.Drawing.Point(66, 58);
+            this.portTextBox.Name = "portTextBox";
+            this.portTextBox.Size = new System.Drawing.Size(189, 31);
+            this.portTextBox.TabIndex = 3;
+            this.portTextBox.Text = "8083";
+            // 
+            // label2
+            // 
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(6, 63);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(54, 23);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Port:";
+            // 
+            // hostTextBox
+            // 
+            this.hostTextBox.Font = new System.Drawing.Font("Cascadia Mono", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.hostTextBox.Location = new System.Drawing.Point(66, 22);
+            this.hostTextBox.Name = "hostTextBox";
+            this.hostTextBox.Size = new System.Drawing.Size(189, 31);
+            this.hostTextBox.TabIndex = 1;
+            this.hostTextBox.Text = "localhost";
+            // 
+            // label1
+            // 
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(6, 27);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(65, 23);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Host:";
+            // 
+            // statusBar1
+            // 
+            this.statusBar1.Location = new System.Drawing.Point(0, 310);
+            this.statusBar1.Name = "statusBar1";
+            this.statusBar1.Size = new System.Drawing.Size(294, 22);
+            this.statusBar1.TabIndex = 4;
+            this.statusBar1.Text = "Ready";
+            // 
+            // disconnectButton
+            // 
+            this.disconnectButton.Enabled = false;
+            this.disconnectButton.Location = new System.Drawing.Point(154, 138);
+            this.disconnectButton.Name = "disconnectButton";
+            this.disconnectButton.Size = new System.Drawing.Size(131, 59);
+            this.disconnectButton.TabIndex = 5;
+            this.disconnectButton.Text = "Disconnect";
+            this.disconnectButton.UseVisualStyleBackColor = true;
+            this.disconnectButton.Click += new System.EventHandler(this.disconnectButton_Click);
+            // 
+            // sendTextBox
+            // 
+            this.sendTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sendTextBox.Location = new System.Drawing.Point(12, 277);
+            this.sendTextBox.Name = "sendTextBox";
+            this.sendTextBox.Size = new System.Drawing.Size(200, 26);
+            this.sendTextBox.TabIndex = 6;
+            this.sendTextBox.TextChanged += new System.EventHandler(this.sendTextBox_TextChanged);
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.ledToggleCheckBox);
+            this.groupBox2.Location = new System.Drawing.Point(18, 203);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(130, 68);
+            this.groupBox2.TabIndex = 7;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "LED Demo";
+            // 
+            // ledToggleCheckBox
+            // 
+            this.ledToggleCheckBox.Location = new System.Drawing.Point(6, 20);
+            this.ledToggleCheckBox.Name = "ledToggleCheckBox";
+            this.ledToggleCheckBox.Size = new System.Drawing.Size(104, 42);
+            this.ledToggleCheckBox.TabIndex = 1;
+            this.ledToggleCheckBox.Text = "LED ON";
+            this.ledToggleCheckBox.UseVisualStyleBackColor = true;
+            this.ledToggleCheckBox.CheckedChanged += new System.EventHandler(this.ledToggleCheckBox_CheckedChanged);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(294, 332);
+            this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.sendTextBox);
+            this.Controls.Add(this.disconnectButton);
+            this.Controls.Add(this.statusBar1);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.connectButton);
+            this.Name = "Form1";
+            this.Text = "TCP Client";
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.CheckBox ledToggleCheckBox;
+
+        private System.Windows.Forms.TextBox sendTextBox;
+
+        private System.Windows.Forms.Button disconnectButton;
+
+        private System.Windows.Forms.StatusBar statusBar1;
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox hostTextBox;
+        private System.Windows.Forms.TextBox portTextBox;
+        private System.Windows.Forms.Label label2;
+
+        private System.Windows.Forms.GroupBox groupBox1;
+
+        private System.Windows.Forms.Button button2;
+
+        private System.Windows.Forms.Button connectButton;
+
+        #endregion
+    }
+}

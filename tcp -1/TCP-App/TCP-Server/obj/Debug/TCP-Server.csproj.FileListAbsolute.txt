@@ -1,0 +1,195 @@
+D:\misc\CTP\2025\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+D:\misc\CTP\2025\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+D:\misc\CTP\2025\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+D:\misc\CTP\2025\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+D:\misc\CTP\2025\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+D:\misc\CTP\2025\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+D:\misc\CTP\2025\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+D:\misc\CTP\2025\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+D:\misc\CTP\2025\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+D:\misc\CTP\2025\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\Tcp_server\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\Tcp_server\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\Tcp_server\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\Tcp_server\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\Tcp_server\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\Tcp_server\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\Tcp_server\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\Tcp_server\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\Tcp_server\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\Tcp_server\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\Tcp_server - Copy\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\Tcp_server - Copy\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\Tcp_server - Copy\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\Tcp_server - Copy\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\Tcp_server - Copy\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\Tcp_server - Copy\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\Tcp_server - Copy\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\Tcp_server - Copy\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\Tcp_server - Copy\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\Tcp_server - Copy\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\Tcp_server - Copy\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\TCP-SERVER_MAIN\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP-SERVER_MAIN\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP-SERVER_MAIN\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\TCP-SERVER_MAIN\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER_MAIN\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP-SERVER_MAIN\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\TCP-SERVER_MAIN\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\TCP-SERVER_MAIN\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER_MAIN\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER_MAIN\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP-SERVER_MAIN\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP-SERVER-1\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 - Copy\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 - Copy\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 - Copy\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 MAIN - Copy\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 MAIN - Copy\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 MAIN - Copy\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 MAIN - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 MAIN - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 MAIN - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 MAIN - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 MAIN - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 MAIN - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 MAIN - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP-SERVER-1 MAIN - Copy\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\t all\TCP -Server New\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\t all\TCP -Server New\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\t all\TCP -Server New\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\t all\TCP -Server New\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\t all\TCP -Server New\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\t all\TCP -Server New\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\t all\TCP -Server New\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\t all\TCP -Server New\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\t all\TCP -Server New\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\t all\TCP -Server New\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\t all\TCP -Server New\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\T-1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\T-1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\T-1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\T-1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\T-1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\T-1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\T-1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\T-1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\T-1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\T-1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\T-1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\T_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\T_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\T_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\T_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\T_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\T_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\T_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\T_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\T_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\T_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\Tcp_1 - Copy\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\Tcp_1 - Copy\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\Tcp_1 - Copy\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\Tcp_1 - Copy\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\Tcp_1 - Copy\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\Tcp_1 - Copy\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\Tcp_1 - Copy\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\Tcp_1 - Copy\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\Tcp_1 - Copy\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\Tcp_1 - Copy\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\Tcp_1 - Copy\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\TCP_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\TCP_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\TCP_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\TCP_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\TCP_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\TCP_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\TCP_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\TCP_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\TCP_1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\Excel final tcp auto\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\Excel final tcp auto\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\Excel final tcp auto\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\Excel final tcp auto\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\Excel final tcp auto\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\Excel final tcp auto\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\Excel final tcp auto\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\Excel final tcp auto\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\Excel final tcp auto\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\Excel final tcp auto\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\Excel final tcp auto\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\excel auto -1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\excel auto -1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\excel auto -1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\excel auto -1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\excel auto -1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\excel auto -1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\excel auto -1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\excel auto -1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\excel auto -1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\excel auto -1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\excel auto -1\TCP -Server New\TCP-SERVER-1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\tcp server main -p1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\tcp server main -p1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\tcp server main -p1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\tcp server main -p1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\tcp server main -p1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\tcp server main -p1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\tcp server main -p1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\tcp server main -p1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\tcp server main -p1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\tcp server main -p1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\tcp server main -p1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\real time tcp\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\real time tcp\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\real time tcp\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\real time tcp\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\real time tcp\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\real time tcp\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\real time tcp\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\real time tcp\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\real time tcp\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\real time tcp\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\real time tcp\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\tcp -1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\tcp -1\TCP-App\TCP-Server\bin\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\tcp -1\TCP-App\TCP-Server\bin\Debug\TCP_Server.pdb
+C:\Users\Manikanta\Desktop\tcp -1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.AssemblyReference.cache
+C:\Users\Manikanta\Desktop\tcp -1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe.config
+C:\Users\Manikanta\Desktop\tcp -1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\Manikanta\Desktop\tcp -1\TCP-App\TCP-Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\Manikanta\Desktop\tcp -1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.GenerateResource.cache
+C:\Users\Manikanta\Desktop\tcp -1\TCP-App\TCP-Server\obj\Debug\TCP-Server.csproj.CoreCompileInputs.cache
+C:\Users\Manikanta\Desktop\tcp -1\TCP-App\TCP-Server\obj\Debug\TCP_Server.exe
+C:\Users\Manikanta\Desktop\tcp -1\TCP-App\TCP-Server\obj\Debug\TCP_Server.pdb
